@@ -1,17 +1,10 @@
 # Hi, I'm Magara Reyvandika 👋
-### Computer Science Student at UIN Sunan Kalijaga
 
-A passionate developer from Indonesia. I love building web applications and learning new technologies.
+### Informatics Engineering Student at UIN Sunan Kalijaga | Aspiring Cloud Security Engineer
 
-- 🔭 I’m currently working on **[game_py]**
-- 🌱 I’m currently learning **[Pyhton, C, JavaScript]**
-- 💬 Ask me about **[]**
-- 📫 How to reach me: **[magaraaar@gmail.com]**
+Background in computer networking (TKJ) and hands-on IT support/network technician experience, now building toward cloud security through self-directed study — from network hardening (`ufw`, firewall fundamentals) to AWS AI Academy and CTF competitions.
 
----
-
-### 🛠️ Tech Stack
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![React](https://shields.io)
+- 🔭 Currently building projects in Python (see `game-py`) and learning JavaScript/frontend fundamentals
+- 🌱 Studying cybersecurity roadmap toward Cloud Security Engineering, sequenced through Cloud Engineer roles first
+- 🎯 CTF competition experience; exploring IoT with ESP32/MicroPython on the side
+- 📫 Based in Yogyakarta, Indonesia
