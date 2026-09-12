@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mgaraar&label=Profile%20views&color=0e75b6&style=flat" alt="mgaraar" /> </p>
 
-- 🔭 I’m currently working on **game_py**
+- 🔭 I’m currently working on **game-py**
 
 - 🌱 I’m currently learning **Python, C, JavaScript**
 
