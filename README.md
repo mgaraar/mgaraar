@@ -19,10 +19,6 @@
   <a href="#-contact"><img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0A66C2&style=flat-square" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -51,10 +47,10 @@ int main(void) {
 ```
 
 <details>
-<summary>📖 <b>Klik untuk baca cerita singkatku</b></summary>
+<summary>📖 <b>A Short Story About Me</b></summary>
 <br>
 
-Aku memulai dari dunia jaringan di SMKN 1 Garut, lalu mencoba kerja nyata sebagai IT Support dan network technician. Sekarang aku kuliah Teknik Informatika di Yogyakarta untuk memperdalam fondasi: algoritma, sistem, dan keamanan. Targetku jelas, yaitu menjadi **Cloud Security Engineer**.
+My journey in tech began with networking back at SMKN 1 Garut, which led me to gain hands-on field experience as an IT Support and Network Technician. Currently, I’m pursuing a degree in Informatics in UIN S to build a rock-solid foundation in algorithms, systems, and security. My target is set: to become a Cloud Security Engineer.
 
 </details>
 
@@ -67,26 +63,14 @@ Aku memulai dari dunia jaringan di SMKN 1 Garut, lalu mencoba kerja nyata sebaga
 </p>
 
 <details>
-<summary>🌐 <b>Networking & Security (klik untuk buka)</b></summary>
+<summary>🌐 <b>Networking & Security</b></summary>
 <br>
 
-- Konfigurasi & troubleshooting jaringan (pengalaman kerja)
+- Konfigurasi & troubleshooting jaringan 
 - Dasar keamanan: _sedang dipelajari_
 - Cloud platform: _target berikutnya_
 
 </details>
-
----
-
-## 📌 Projects
-
-| Project | Deskripsi | Status |
-|---|---|---|
-| 🐚 [**mini-shell**](https://github.com/USERNAME/mini-shell) | Shell sederhana ala Unix, ditulis dengan C | 🚧 In progress |
-| 🧱 [**data-structures-c**](https://github.com/USERNAME/data-structures-c) | Linked list, stack, queue dari nol | 🚧 In progress |
-| 🐍 [**project-name**](https://github.com/USERNAME/project-name) | Isi deskripsi | 💡 Planned |
-
-> ✏️ Ganti link dengan repositori aslimu. Hapus baris yang belum ada.
 
 ---
 
@@ -101,25 +85,21 @@ Cloud (AWS/GCP/Azure)     [░░░░░░░░░░]   0%  🎯
 Cloud security            [░░░░░░░░░░]   0%  🎯
 ```
 
-> ✏️ Ubah persentase sesuai kondisi jujurmu. Perbarui tiap beberapa minggu.
-
----
-
 ## 📊 Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mgaraar&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mgaraar&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mgaraar&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/mgaraar/mgaraar/output/github-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
@@ -127,8 +107,8 @@ Cloud security            [░░░░░░░░░░]   0%  🎯
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/magara-reyvandika"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:magaraar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
