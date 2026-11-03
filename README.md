@@ -6,17 +6,20 @@
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Building+a+mini+shell+in+C+%F0%9F%90%9A;Learning+Linux+%26+Networking+%F0%9F%90%A7;Studying+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Next+stop%3A+Cloud+Security+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Learning+Linux+%26+Networking+%F0%9F%90%A7;Informatics+Student+%F0%9F%8E%93;Learn.+Build.+Secure.;Aspiring+Cloud+Security+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- Navigation (klik untuk lompat ke bagian) -->
+<!-- Navigation -->
 <p align="center">
   <a href="#-about-me"><img src="https://img.shields.io/badge/About-0A66C2?style=for-the-badge" /></a>
   <a href="#-tech-stack"><img src="https://img.shields.io/badge/Stack-2EA043?style=for-the-badge" /></a>
-  <a href="#-projects"><img src="https://img.shields.io/badge/Projects-E34F26?style=for-the-badge" /></a>
-  <a href="#-roadmap"><img src="https://img.shields.io/badge/Roadmap-8957E5?style=for-the-badge" /></a>
+  <a href="#-learning-journey"><img src="https://img.shields.io/badge/Journey-8957E5?style=for-the-badge" /></a>
   <a href="#-contact"><img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mgaraar&label=Profile%20views&color=0A66C2&style=flat-square" />
 </p>
 
 ---
@@ -39,7 +42,7 @@ int main(void) {
         .name       = "Magara Reyvandika (Gara)",
         .school     = "UIN Sunan Kalijaga, Informatics Engineering",
         .background = "Networking (TKJ), IT Support, Network Technician",
-        .goal       = "Cloud Security Engineer"
+        .goal       = "Cloud Engineer"
     };
     printf("Hello, I'm %s\n", gara.name);
     return 0;
@@ -62,34 +65,50 @@ My journey in tech began with networking back at SMKN 1 Garut, which led me to g
   <img src="https://skillicons.dev/icons?i=c,py,js,bash,linux,git,github,vscode&theme=dark" />
 </p>
 
+---
+
+## 📌 Projects
+
+| Project | Deskripsi | Tech |
+|---|---|---|
+| 🖥️ [**linux-system-monitor**](https://github.com/mgaraar/linux-system-monitor) | Membaca informasi sistem di Linux | Shell |
+| 🎮 [**game-py**](https://github.com/mgaraar/game-py) | Game sederhana | Python |
+| 💾 [**porto_website**](https://mgaraar.github.io/porto_website/) | Website Portfolio Sederhana | JavaScript |
+
+---
+
+## 🧭 Learning Journey
+
+```text
+$ cat journey.log
+[ BASE    ] Networking foundations
+[ BASE ] Linux & command line
+[ RUNNING ] C programming
+[ RUNNING ] Cybersecurity fundamentals
+[ QUEUED  ] Cloud platforms (AWS / GCP / Azure)
+$ _
+```
+
 <details>
-<summary>🌐 <b>Networking & Security</b></summary>
+<summary>✅ <b>Milestones (klik untuk buka)</b></summary>
 <br>
 
-- Konfigurasi & troubleshooting jaringan 
-- Dasar keamanan: _sedang dipelajari_
-- Cloud platform: _target berikutnya_
+- [x] Publish first projects on GitHub
+- [ ] Finish a mini shell in C
+- [ ] Implement core data structures in C
+- [x] Write learning notes in a repo
+- [ ] Complete one hands-on security practice path
+- [ ] Build a small home network lab
 
 </details>
 
 ---
 
-## 🎯 Roadmap
-
-```text
-Networking fundamentals   [██████████] 100%  ✅
-C & data structures       [███░░░░░░░]  30%  🚧
-Linux & shell             [███░░░░░░░]  30%  🚧
-Cybersecurity basics      [██░░░░░░░░]  20%  🚧
-Cloud (AWS/GCP/Azure)     [░░░░░░░░░░]   0%  🎯
-Cloud security            [░░░░░░░░░░]   0%  🎯
-```
-
 ## 📊 Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=mgaraar&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=mgaraar&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=mgaraar&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -107,8 +126,8 @@ Cloud security            [░░░░░░░░░░]   0%  🎯
 ## 📫 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/magara-reyvandika"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:magaraar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
