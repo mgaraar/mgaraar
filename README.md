@@ -1,12 +1,12 @@
 <!-- ============ HEADER ============ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2EA043&height=200&section=header&text=Hi,%20I'm%20Gara&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Student%20%C2%B7%20Aspiring%20Cloud%20Security%20Engineer&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:2EA043&height=200&section=header&text=Hi,%20I'm%20Gara&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Informatics%20Student%20%C2%B7%20Aspiring%20Cloud%20Engineer&descAlignY=58&descSize=18" />
 </p>
 
 <!-- Typing animation -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Learning+Linux+%26+Networking+%F0%9F%90%A7;Informatics+Student+%F0%9F%8E%93;Learn.+Build.+Secure.;Aspiring+Cloud+Security+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2EA043&center=true&vCenter=true&width=600&lines=Learning+Linux+%26+Networking+%F0%9F%90%A7;Informatics+Student+%F0%9F%8E%93;Learn.+Build.+Secure.;Aspiring+Cloud+Engineer" alt="Typing SVG" />
   </a>
 </p>
 
